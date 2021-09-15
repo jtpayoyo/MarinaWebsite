@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="DockSelector.ascx.cs" Inherits="Marina.GUI.Controls.DockSelector" %>
+<asp:DropDownList ID="ddlDocks" style="width:150px;" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddlDocks_SelectedIndexChanged"></asp:DropDownList>

@@ -1,0 +1,24 @@
+C:\Users\apple\source\repos\Marina\Marina.Data\obj\Debug\Marina.Data.csproj.CoreCompileInputs.cache
+C:\Users\apple\source\repos\Marina\Marina.Data\bin\Debug\Marina.Data.dll.config
+C:\Users\apple\source\repos\Marina\Marina.Data\bin\Debug\Marina.Data.dll
+C:\Users\apple\source\repos\Marina\Marina.Data\bin\Debug\Marina.Data.pdb
+C:\Users\apple\source\repos\Marina\Marina.Data\bin\Debug\EntityFramework.dll
+C:\Users\apple\source\repos\Marina\Marina.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\apple\source\repos\Marina\Marina.Data\bin\Debug\EntityFramework.xml
+C:\Users\apple\source\repos\Marina\Marina.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\apple\source\repos\Marina\Marina.Data\obj\Debug\Marina.Data.csproj.CopyComplete
+C:\Users\apple\source\repos\Marina\Marina.Data\obj\Debug\Marina.Data.dll
+C:\Users\apple\source\repos\Marina\Marina.Data\obj\Debug\Marina.Data.pdb
+C:\Users\apple\source\repos\Marina\Marina.Data\obj\Debug\Marina.Data.csproj.AssemblyReference.cache
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\bin\Debug\Marina.Data.dll.config
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\bin\Debug\Marina.Data.dll
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\bin\Debug\Marina.Data.pdb
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\bin\Debug\EntityFramework.dll
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\bin\Debug\EntityFramework.xml
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\obj\Debug\Marina.Data.csproj.AssemblyReference.cache
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\obj\Debug\Marina.Data.csproj.CoreCompileInputs.cache
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\obj\Debug\Marina.Data.csproj.CopyComplete
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\obj\Debug\Marina.Data.dll
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MarinaWebsite\Marina\Marina.Data\obj\Debug\Marina.Data.pdb
